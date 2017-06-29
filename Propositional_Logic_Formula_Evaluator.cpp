@@ -164,7 +164,7 @@ int main() {
 
     else {
     	std::cout << "\nThe statement [(" << inputString1 << ")" << " " << "->" << " " << "(" << inputString2 << ")]";
-        std::cout << "\nis not a tautology. Invalid cases are labelled.\n";
+        std::cout << "\nis not a tautology. Invalid cases are labeled.\n";
         system("pause");
     }
 
