@@ -31,5 +31,5 @@ t f f |      t       |    t
 f f f |      t       |    f     Premise does not imply conclusion in this case.
 
 The statement [(p V (q -> z)) -> (z <-> ~p)]
-is not a tautology. Invalid cases are labelled.
+is not a tautology. Invalid cases are labeled.
 
