@@ -1,4 +1,4 @@
-From the input of a premise and a conclusion, this program will build a truth table and determine whether the corresponding logic formula is a tautology.
+From the input of a premise and a conclusion, this program will build a truth table and determine whether the corresponding Boolean logic formula is a tautology.
 
 Valid commands (case-sensitive): 
    ~ (negation)
