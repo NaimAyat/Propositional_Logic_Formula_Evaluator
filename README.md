@@ -3,15 +3,24 @@
 ### Purpose
 From the input of a premise and a conclusion, this program will build a truth table and determine whether the corresponding Boolean logic formula is a tautology.
 
-### Valid commands (case-sensitive): 
+### Valid Commands (Case-Sensitive)
+
    `~` (negation)
+   
    `V` (or)
+   
    `^` (and)
+   
    `->` (implies)
+   
    `<->` (iff)
+   
    `XOR` (exclusive or)
+   
    `t` (true statement)
+   
    `f` (false statement)
+   
    Parentheses also allowed.
 
 You may use any character not defined above as a variable.
