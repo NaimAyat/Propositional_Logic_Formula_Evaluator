@@ -27,6 +27,7 @@ You may use any character not defined above as a variable.
 
 ### Example Execution 
 Premise input: `p V (q -> z)`
+
 Conclusion input: `z <-> ~p`
 
 Output:
