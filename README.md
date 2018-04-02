@@ -1,7 +1,7 @@
 # Propositional Logic Formula Evaluator
 
 ### Purpose
-From the input of a premise and a conclusion, this program will build a truth table and determine whether the corresponding Boolean logic formula is a tautology.
+From the input of a premise and a conclusion, this program will build a truth table and determine whether the corresponding biconditional is a tautology.
 
 ### Usage
 #### Boolean Operators
